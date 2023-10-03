@@ -1,1 +1,1 @@
-worker: python -m forwarder
+worker: poetry run forwarder
